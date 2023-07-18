@@ -4,17 +4,20 @@ from pageObjects.loginPage import LoginPage
 from pageObjects.AddCustomer import AddCustomer
 from pageObjects.SearchCustomerPage import SearchCustomer
 from utilities.BaseClass import BaseClass
+from utilities.readProperties import ReadConfig
 
 
 class Test_SearchCustomerByEmail(BaseClass):
+    username = ReadConfig.getUseremail()
+    password = ReadConfig.getPassword()
 
     def test_searchCustomerByEmail(self):
         log = self.getLogger()
         log.info("************* Test_003_AddCustomer **********")
         log = self.getLogger()
         lp = LoginPage(self.driver)
-        lp.setUserName().send_keys("admin@yourstore.com")
-        lp.setPassword().send_keys("admin")
+        lp.setUserName(self.username)
+        lp.setPassword(self.password)
         lp.clickLogin()
         log.info("************* Login succesful **********")
 
