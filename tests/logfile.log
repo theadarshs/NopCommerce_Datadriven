@@ -1,0 +1,638 @@
+2023-05-22 18:28:59,148 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 18:29:02,417 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 18:29:02,417 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 18:29:02,417 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 18:29:02,417 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 18:29:13,211 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 18:29:13,211 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 18:29:25,030 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 18:29:25,030 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 18:29:25,030 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 18:29:25,030 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 18:29:25,481 :ERROR : test_addCustomer :********* Add customer Test Failed ************
+2023-05-22 18:29:25,481 :ERROR : test_addCustomer :********* Add customer Test Failed ************
+2023-05-22 18:30:39,300 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 18:30:40,792 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 18:30:40,792 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 18:30:40,792 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 18:30:40,792 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 18:30:51,581 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 18:30:51,581 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 18:31:03,380 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 18:31:03,380 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 18:31:03,380 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 18:31:03,380 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 18:31:03,686 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 18:31:03,686 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 18:31:03,686 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 18:31:03,686 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 18:55:35,725 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 18:55:37,403 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 18:55:37,403 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 18:55:37,404 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 18:55:37,404 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 18:55:44,423 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 18:55:44,423 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:00:55,330 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:00:56,944 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:00:56,944 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:00:56,944 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:00:56,944 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:01:03,931 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:01:03,931 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:02:07,346 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:02:08,995 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:02:08,995 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:02:08,995 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:02:08,995 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:02:16,003 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:02:16,003 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:04:22,839 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:04:26,027 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:04:26,027 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:04:26,027 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:04:26,027 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:04:33,026 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:04:33,026 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:06:56,443 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:06:58,104 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:06:58,104 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:06:58,104 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:06:58,104 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:07:05,143 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:07:05,143 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:08:28,876 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:08:32,021 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:08:32,021 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:08:32,021 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:08:32,021 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:08:39,007 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:08:39,007 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:09:54,955 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:09:58,139 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:09:58,139 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:09:58,140 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:09:58,140 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:10:05,108 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:10:05,108 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:12:58,270 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:13:01,454 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:13:01,454 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:13:01,455 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:13:01,455 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:13:08,466 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:13:08,466 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:15:33,137 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:15:36,368 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:15:36,368 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:15:36,368 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:15:36,368 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:15:43,369 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:15:43,369 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:16:55,626 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:16:58,876 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:16:58,876 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:16:58,876 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:16:58,876 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:17:05,850 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:17:05,850 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:17:16,186 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:17:16,186 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:18:24,966 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:18:28,215 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:18:28,215 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:18:28,215 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:18:28,215 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:18:35,255 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:18:35,255 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:18:45,598 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:18:45,598 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:19:07,415 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:19:10,672 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:19:10,672 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:19:10,672 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:19:10,672 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:19:17,666 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:19:17,666 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:19:28,036 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:19:28,036 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:20:20,685 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:20:24,214 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:20:24,214 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:20:24,214 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:20:24,214 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:20:31,454 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:20:31,454 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:20:41,803 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:20:41,803 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:21:19,865 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:21:21,506 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:21:21,506 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:21:21,506 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:21:21,506 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:21:28,536 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:21:28,536 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:21:38,871 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:21:38,871 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:21:56,353 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:21:59,575 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:21:59,575 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:21:59,576 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:21:59,576 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:22:06,566 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:22:06,566 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:22:42,498 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:22:44,133 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:22:44,133 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:22:44,133 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:22:44,133 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:22:51,204 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:22:51,204 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:23:01,560 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:23:01,560 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:24:10,229 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:24:13,503 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:24:13,503 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:24:13,503 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:24:13,503 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:24:20,592 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:24:20,592 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:26:35,462 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:26:38,718 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:26:38,718 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:26:38,719 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:26:38,719 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:26:45,729 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:26:45,729 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:29:07,247 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:29:10,493 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:29:10,493 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:29:10,493 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:29:10,493 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:29:17,448 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:29:17,448 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:29:29,771 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:29:29,771 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:30:07,238 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:30:08,775 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:30:08,775 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:30:08,775 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:30:08,775 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:30:15,765 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:30:15,765 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:30:28,108 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:30:28,108 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:34:07,062 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:34:10,121 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:34:10,121 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:34:10,121 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:34:10,121 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:34:17,078 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:34:17,078 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:35:28,093 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:36:20,837 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:36:25,688 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:36:25,688 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:36:25,689 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:36:25,689 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:36:32,661 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:36:32,661 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:36:45,009 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:36:45,009 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:37:10,591 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:37:13,798 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:37:13,798 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:37:13,798 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:37:13,798 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:37:20,800 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:37:20,800 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:37:33,156 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:37:33,156 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:38:13,071 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:38:16,226 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:38:16,226 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:38:16,226 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:38:16,226 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:38:23,219 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:38:23,219 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:38:35,556 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:38:35,556 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:39:14,325 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:39:16,146 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:39:16,146 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:39:16,147 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:39:16,147 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:39:23,210 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:39:23,210 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:39:35,550 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:39:35,550 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:40:14,137 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:40:17,269 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:40:17,269 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:40:17,270 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:40:17,270 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:40:24,256 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:40:24,256 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:40:36,596 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:40:36,596 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:41:04,166 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:41:05,854 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:41:05,854 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:41:05,854 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:41:05,854 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:41:12,832 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:41:12,832 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:41:25,204 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:41:25,204 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:41:43,058 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:41:44,627 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:41:44,627 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:41:44,627 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:41:44,627 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:41:51,743 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:41:51,743 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:42:28,134 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:42:30,553 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:42:30,553 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:42:30,553 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:42:30,553 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:42:37,941 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:42:37,941 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:42:50,279 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:42:50,279 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:43:33,106 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:43:36,257 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:43:36,257 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:43:36,257 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:43:36,257 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:43:43,220 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:43:43,220 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:44:28,373 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:44:29,934 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:44:29,934 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:44:29,934 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:44:29,934 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:44:37,898 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:44:37,898 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:44:50,837 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:44:50,837 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:47:44,321 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:47:47,633 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:47:47,633 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:47:47,633 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Name **********
+2023-05-22 19:47:47,633 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Name **********
+2023-05-22 19:47:54,558 :INFO : test_searchCustomerByEmail :************* searching customer by Name **********
+2023-05-22 19:47:54,558 :INFO : test_searchCustomerByEmail :************* searching customer by Name **********
+2023-05-22 19:49:04,135 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:49:05,769 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:49:05,769 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:49:05,773 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Name **********
+2023-05-22 19:49:05,773 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Name **********
+2023-05-22 19:49:12,753 :INFO : test_searchCustomerByEmail :************* searching customer by Name **********
+2023-05-22 19:49:12,753 :INFO : test_searchCustomerByEmail :************* searching customer by Name **********
+2023-05-22 19:49:25,085 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:49:25,085 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:50:25,684 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 19:50:27,245 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 19:50:27,245 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 19:50:27,245 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 19:50:27,245 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 19:50:34,188 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 19:50:34,188 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 19:50:46,523 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:50:46,523 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:52:10,873 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 19:52:14,084 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 19:52:14,084 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 19:52:14,085 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 19:52:14,085 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 19:52:21,071 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 19:52:21,071 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 19:52:33,387 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:52:33,387 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 19:52:42,597 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 19:52:45,795 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:52:45,795 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 19:52:45,795 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:52:45,795 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 19:52:52,771 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:52:52,771 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 19:53:05,111 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:53:05,111 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 19:53:13,465 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 19:53:15,072 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 19:53:15,072 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 19:53:15,072 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 19:53:15,072 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 19:53:25,756 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 19:53:25,756 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 19:53:37,562 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 19:53:37,562 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 19:53:37,562 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 19:53:37,562 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 19:53:37,892 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 19:53:37,892 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 19:53:37,892 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 19:53:37,892 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 19:53:48,163 :INFO : test_login :****Started Login Test****
+2023-05-22 19:53:51,733 :ERROR : test_login :****Login test failed ****
+2023-05-22 20:01:09,592 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 20:01:13,218 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:01:13,218 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:01:13,218 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:01:13,218 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:01:30,160 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 20:01:33,449 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:01:33,449 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:01:33,449 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:01:33,449 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:01:40,410 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:01:40,410 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:01:52,755 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:01:52,755 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:02:02,781 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 20:02:04,408 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:02:04,408 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:02:04,408 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:02:04,408 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:02:15,162 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:02:15,162 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:02:26,963 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 20:02:26,963 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 20:02:26,963 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 20:02:26,963 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 20:02:27,297 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 20:02:27,297 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 20:02:27,297 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 20:02:27,297 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 20:02:35,559 :INFO : test_login :****Started Login Test****
+2023-05-22 20:02:39,151 :ERROR : test_login :****Login test failed ****
+2023-05-22 20:05:23,689 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 20:05:27,492 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:05:27,492 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:05:27,492 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:05:27,492 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:05:34,458 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:05:34,458 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:05:46,784 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:05:46,784 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:05:57,741 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 20:06:01,155 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:06:01,155 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:06:01,155 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:06:01,155 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:06:08,113 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:06:08,113 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:06:20,441 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:06:20,441 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:06:30,071 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 20:06:33,293 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:06:33,293 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:06:33,293 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:06:33,293 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:06:48,950 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:06:48,950 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:06:57,988 :INFO : test_login :****Started Login Test****
+2023-05-22 20:07:01,586 :ERROR : test_login :****Login test failed ****
+2023-05-22 20:07:52,455 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 20:07:56,170 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:07:56,170 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:07:56,170 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:07:56,170 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:08:05,170 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:08:05,170 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:08:17,500 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:08:17,500 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:08:27,693 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 20:08:29,198 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:08:29,198 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-05-22 20:08:29,198 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:08:29,198 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-05-22 20:08:36,208 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:08:36,208 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-05-22 20:08:48,550 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:08:48,550 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-05-22 20:08:57,906 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 20:08:59,604 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:08:59,604 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:08:59,605 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:08:59,605 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:09:12,376 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:09:12,376 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:09:26,479 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 20:09:26,479 :INFO : test_addCustomer :************* Saving customer info **********
+2023-05-22 20:09:26,479 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 20:09:26,479 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-05-22 20:09:26,863 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 20:09:26,863 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-05-22 20:09:26,864 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 20:09:26,864 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-05-22 20:09:36,580 :INFO : test_login :****Started Login Test****
+2023-05-22 20:09:40,958 :ERROR : test_login :****Login test failed ****
+2023-05-22 20:10:32,143 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-05-22 20:10:33,876 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:10:33,876 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-05-22 20:10:33,876 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:10:33,876 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-05-22 20:10:41,434 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:10:41,434 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-05-22 20:10:54,298 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:10:54,298 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-05-22 20:11:02,689 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-05-22 20:11:13,909 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-05-22 20:11:17,504 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:11:17,504 :INFO : test_addCustomer :************* Login succesful **********
+2023-05-22 20:11:17,504 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:11:17,504 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-05-22 20:11:29,617 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:11:29,617 :INFO : test_addCustomer :************* Providing customer info **********
+2023-05-22 20:11:41,138 :INFO : test_login :****Started Login Test****
+2023-05-22 20:11:44,726 :ERROR : test_login :****Login test failed ****
+2023-07-13 18:42:09,555 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 18:42:11,281 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:42:11,281 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:42:11,281 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:42:11,281 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:42:29,669 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 18:42:35,265 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:42:35,265 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:42:35,266 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:42:35,266 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:42:43,785 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-07-13 18:42:43,785 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-07-13 18:42:56,110 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-07-13 18:42:56,110 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-07-13 18:43:08,405 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-07-13 18:43:11,664 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-07-13 18:43:11,664 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-07-13 18:43:11,664 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-07-13 18:43:11,664 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-07-13 18:43:19,033 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-07-13 18:43:19,033 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-07-13 18:43:31,337 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-07-13 18:43:31,337 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-07-13 18:43:40,369 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 18:43:41,953 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 18:43:41,953 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 18:43:41,953 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 18:43:41,953 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 18:43:53,287 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 18:43:53,287 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 18:44:52,977 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 18:44:54,633 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:44:54,633 :INFO : test_searchCustomerByName :************* Login succesful **********
+2023-07-13 18:44:54,633 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:44:54,633 :INFO : test_searchCustomerByName :******* Starting Search Customer By Name **********
+2023-07-13 18:45:01,595 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-07-13 18:45:01,595 :INFO : test_searchCustomerByName :************* searching customer by Name **********
+2023-07-13 18:45:13,920 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-07-13 18:45:13,920 :INFO : test_searchCustomerByName :***************  TC_SearchCustomerByName_004 Finished  *********** 
+2023-07-13 18:45:24,066 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-07-13 18:45:27,532 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-07-13 18:45:27,532 :INFO : test_searchCustomerByEmail :************* Login succesful **********
+2023-07-13 18:45:27,532 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-07-13 18:45:27,532 :INFO : test_searchCustomerByEmail :******* Starting Search Customer By Email **********
+2023-07-13 18:45:34,567 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-07-13 18:45:34,567 :INFO : test_searchCustomerByEmail :************* searching customer by emailID **********
+2023-07-13 18:45:46,910 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-07-13 18:45:46,910 :INFO : test_searchCustomerByEmail :***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-07-13 18:45:55,740 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 18:45:57,306 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 18:45:57,306 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 18:45:57,306 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 18:45:57,306 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 18:46:08,015 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 18:46:08,015 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 18:46:19,851 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 18:46:19,851 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 18:46:19,851 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 18:46:19,851 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 18:46:20,189 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 18:46:20,189 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 18:46:20,189 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 18:46:20,189 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 18:46:28,804 :INFO : test_login :****Started Login Test****
+2023-07-13 18:46:32,375 :ERROR : test_login :****Login test failed ****
+2023-07-13 19:04:21,358 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 19:04:33,110 :INFO : test_searchCustomerByEmail :************* Test_003_AddCustomer **********
+2023-07-13 19:06:42,525 :INFO : test_login :****Started Login Test****
+2023-07-13 19:06:48,971 :INFO : test_login :****Login test passed ****
+2023-07-13 19:08:18,659 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 19:10:59,919 :INFO : test_login :****Started Login Test****
+2023-07-13 19:11:08,364 :INFO : test_login :****Login test passed ****
+2023-07-13 19:11:25,448 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 19:13:10,910 :INFO : test_login :****Started Login Test****
+2023-07-13 19:13:17,715 :INFO : test_login :****Login test passed ****
+2023-07-13 19:13:33,108 :INFO : test_searchCustomerByName :************* Test_003_AddCustomer **********
+2023-07-13 19:15:26,902 :INFO : test_login :****Started Login Test****
+2023-07-13 19:15:32,382 :INFO : test_login :****Login test passed ****
+2023-07-13 19:15:48,004 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:17:15,312 :INFO : test_login :****Started Login Test****
+2023-07-13 19:17:21,557 :INFO : test_login :****Login test passed ****
+2023-07-13 19:17:36,878 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:19:30,199 :INFO : test_login :****Started Login Test****
+2023-07-13 19:19:34,830 :INFO : test_login :****Login test passed ****
+2023-07-13 19:19:50,491 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:26:56,061 :INFO : test_login :****Started Login Test****
+2023-07-13 19:27:01,041 :INFO : test_login :****Login test passed ****
+2023-07-13 19:27:15,782 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:27:18,770 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:27:18,770 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:27:18,771 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:27:18,771 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:27:29,753 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:27:29,753 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:27:41,795 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:27:41,795 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:27:41,795 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:27:41,795 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:27:42,294 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:27:42,294 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:27:42,294 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:27:42,294 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:28:17,246 :INFO : test_login :****Started Login Test****
+2023-07-13 19:28:22,125 :INFO : test_login :****Login test passed ****
+2023-07-13 19:28:37,308 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:28:39,279 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:28:39,279 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:28:39,280 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:28:39,280 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:28:50,751 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:28:50,751 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:29:07,971 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:29:11,487 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:29:11,487 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:29:11,488 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:29:11,488 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:29:22,227 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:29:22,227 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:29:34,298 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:29:34,298 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:29:34,298 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:29:34,298 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:29:34,946 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:29:34,946 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:29:34,946 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:29:34,946 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:30:22,399 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:30:22,406 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:30:22,406 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:30:22,406 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:30:22,406 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:31:25,678 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:31:29,271 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:31:29,271 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:31:29,271 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:31:29,271 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:32:04,304 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:35:08,344 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:37:25,567 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:37:27,266 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:37:27,266 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:37:27,266 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:37:27,266 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:38:18,936 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-13 19:38:21,178 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:38:21,178 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-13 19:38:21,178 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:38:21,178 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-13 19:38:43,187 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:38:43,187 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-13 19:38:55,116 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:38:55,116 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-13 19:38:55,117 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:38:55,117 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-13 19:38:55,466 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:38:55,466 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-13 19:38:55,466 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:38:55,466 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-13 19:41:25,784 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 16:57:20,288 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 16:57:23,763 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-18 16:57:23,763 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-18 16:57:23,764 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-18 16:57:23,764 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-18 16:57:34,648 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-18 16:57:34,648 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-18 16:57:46,548 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-18 16:57:46,548 :INFO : test_addCustomer :************* Saving customer info **********
+2023-07-18 16:57:46,549 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-18 16:57:46,549 :INFO : test_addCustomer :********* Add customer validation started *****************
+2023-07-18 16:57:47,050 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-18 16:57:47,050 :INFO : test_addCustomer :********* Add customer Test Passed *********
+2023-07-18 16:57:47,050 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-18 16:57:47,050 :INFO : test_addCustomer :******* Ending Add customer test **********
+2023-07-18 18:51:38,192 :INFO : test_login :****Started Login Test****
+2023-07-18 18:51:42,918 :INFO : test_login :****Login test passed ****
+2023-07-18 18:52:03,657 :INFO : test_login :****Started Login Test****
+2023-07-18 18:52:07,201 :ERROR : test_login :****Login test failed ****
+2023-07-18 18:53:20,032 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 18:54:49,599 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 18:55:42,154 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 18:58:07,392 :INFO : test_addCustomer :************* Test_003_AddCustomer **********
+2023-07-18 18:58:10,559 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-18 18:58:10,559 :INFO : test_addCustomer :************* Login succesful **********
+2023-07-18 18:58:10,559 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-18 18:58:10,559 :INFO : test_addCustomer :******* Starting Add Customer Test **********
+2023-07-18 18:58:21,665 :INFO : test_addCustomer :************* Providing customer info **********
+2023-07-18 18:58:21,665 :INFO : test_addCustomer :************* Providing customer info **********
